@@ -42,6 +42,6 @@ A reference to the Celcat.Model.dll must be added to the project before the sour
 
 ## How to Use
 
-Compiling the source code will create a console executable. All the parameters are passed in via command line parameteres. Please launch a Command Line Window and run the executable without any parameters to see the usage.
+Compiling the source code will create a console executable. All the parameters are passed in via command line parameters. Please launch a Command Line Window and run the executable without any parameters to see the usage.
 
 This console application can only work with a CAWS service properly configured. Please check the CELCAT Wiki for more details on CAWS installation and configuration.
